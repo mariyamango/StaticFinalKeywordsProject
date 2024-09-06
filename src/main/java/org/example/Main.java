@@ -18,5 +18,10 @@ public class Main {
         NewClass.incrementTotalCount();
 
         System.out.println(class1);
+
+        System.out.println(Calculator.add(6,2));
+        System.out.println(Calculator.subtract(6,2));
+        System.out.println(Calculator.multiply(6,2));
+        System.out.println(Calculator.divide(6,2));
     }
 }
