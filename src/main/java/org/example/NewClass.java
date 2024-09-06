@@ -13,7 +13,6 @@ public class NewClass {
 
     public static void incrementTotalCount (){
         totalCount++;
-        //incrementInstanceCount();
     }
 
     public void incrementInstanceCount (){
